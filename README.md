@@ -1,6 +1,7 @@
 # Skewb Solving Robot
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/863834e530550cf2c99fef21fbae26d638773245_image.png" width="400" />
+<img src="https://i.imgur.com/ptxEmD3.png" alt="Image" width=400/>
+
 
 ## Purpose
 
